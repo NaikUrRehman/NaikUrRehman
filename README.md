@@ -2,6 +2,16 @@
 # 👋 Hi, I'm Naik Ur Rehman  
 
 🚀 **iOS & macOS Developer** | SwiftUI • UIKit • Combine • CoreData • ReplayKit  
+## 🚀 Skills & Tools  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SwiftUI-0A84FF?logo=swift&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UIKit-2396F3?logo=apple&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CoreData-FFD43B?logo=databricks&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white&style=for-the-badge" />
+</p>
 
 I’m a passionate iOS/macOS developer with **2+ years of professional experience** building native apps ranging from **TV Remotes, Screen Mirroring & Anti-Theft systems** to **Health Managers, Smart Notes apps, AI-powered Task Managers, and Chatbots**.  
 
@@ -38,17 +48,6 @@ I love crafting **smooth user experiences**, writing **clean MVVM architecture c
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NaikUrRehman&theme=radical&hide_border=true" height="400" />
-</p>
----
-## 🚀 Skills & Tools  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SwiftUI-0A84FF?logo=swift&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UIKit-2396F3?logo=apple&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CoreData-FFD43B?logo=databricks&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white&style=for-the-badge" />
 </p>
 ---
 
