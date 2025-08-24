@@ -41,7 +41,7 @@ I love crafting **smooth user experiences**, writing **clean MVVM architecture c
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/naik-ur-rehman-0a0a85210/]))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/naik-ur-rehman-0a0a85210/)
 - ✉️ Reach me at: **engr.iosdev@gmail.com**  
 
 ---
