@@ -1,1 +1,50 @@
 
+# 👋 Hi, I'm Naik Ur Rehman  
+
+🚀 **iOS & macOS Developer** | SwiftUI • UIKit • Combine • CoreData • ReplayKit  
+
+I’m a passionate iOS/macOS developer with **2+ years of professional experience** building native apps ranging from **TV Remotes, Screen Mirroring & Anti-Theft systems** to **Health Managers, Smart Notes apps, AI-powered Task Managers, and Chatbots**.  
+
+I love crafting **smooth user experiences**, writing **clean MVVM architecture code**, and building apps that solve real-world problems.  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Swift, Objective-C, C++  
+- **Frameworks:** SwiftUI, UIKit, Combine, Core Data, AVKit, ReplayKit  
+- **Databases:** Core Data, Realm, SQLite, Firebase  
+- **Tools & Services:** Xcode, Git, GCDWebServer, RevenueCat, REST APIs, WebSockets  
+- **Other Interests:** Game Development (Unity, C#), AI Integrations, API design  
+
+---
+
+## 📱 Featured Projects
+
+- 📺 **Universal TV Remote** – Local multicast networking & Bonjour service discovery  
+- 🖥 **Screen Mirroring App** – Live iPhone-to-TV casting via GCDWebServer  
+- 🔒 **Anti-Theft Security App** – Motion, WiFi, Bluetooth & charger detection alarms  
+- ❤️ **Health Manager** – Track health metrics & BMI with custom UI components  
+- 📝 **Notes App** – Folder-based note-taking with Core Data & multimedia support  
+- 🤖 **AI Task Manager & Chatbots** – Intelligent assistants powered by AI integrations  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="160" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINK)  
+- 🌐 [Portfolio / Website](https://yourwebsite.com)  
+- ✉️ Reach me at: **your.email@example.com**  
+
+---
+
+✨ *Always learning, always building — passionate about creating apps that make life easier.*  
